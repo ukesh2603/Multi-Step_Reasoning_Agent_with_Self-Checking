@@ -34,7 +34,6 @@ multi_step_reasoning_agent/
 ## Requirements
 
 - Python 3.9 or later
-- No third-party dependencies
 
 ## Run the Agent
 
